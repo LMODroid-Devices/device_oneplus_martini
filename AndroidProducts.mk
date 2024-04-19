@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/lineage_martini.mk
+    $(LOCAL_DIR)/lmodroid_martini.mk
 
 COMMON_LUNCH_CHOICES := \
-    lineage_martini-user \
-    lineage_martini-userdebug \
-    lineage_martini-eng
+    lmodroid_martini-user \
+    lmodroid_martini-userdebug \
+    lmodroid_martini-eng
